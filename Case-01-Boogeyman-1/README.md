@@ -1,6 +1,3 @@
-İşte **`Case-01-Boogeyman-1/README.md`** dosyasının içine doğrudan kopyalayıp yapıştırabileceğin, tek parça ve bölünmemiş kurumsal DFIR vaka raporu:
-
-```markdown
 # 🔍 Incident Investigation Report: Phishing, Credential Theft & DNS Tunneling Exfiltration
 
 **Case Reference:** IR-2023-0714-BG1  
